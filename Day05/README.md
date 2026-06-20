@@ -79,4 +79,3 @@ Output should look clean and readable.
 
 ---
 
-**TrainWithShubham**
